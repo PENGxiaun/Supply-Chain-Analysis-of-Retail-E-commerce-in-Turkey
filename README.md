@@ -155,3 +155,14 @@ For questions or collaborations, please reach out through Kaggle.
 **Happy Analyzing! 🚀**
 
 *Keywords: e-commerce, customer behavior, sales analysis, Turkish market, retail analytics, machine learning, data science, customer segmentation, predictive analytics*
+### 🚀 Inventory Optimization Component (Completed by Me)
+
+I have successfully completed the inventory optimization analysis for the Turkish retail supply chain:
+
+* **Task 2.1: Volatility & Geographic Analysis** * Calculated the **Coefficient of Variation (CV)** for all categories to identify stockout risks.
+    * Mapped geographic demand, identifying **Istanbul** as the high-priority distribution hub.
+* **Task 2.2: Safety Stock Modeling**
+    * Determined optimal **Safety Stock** levels using a 95% service level formula ($Z = 1.65$).
+* **Task 2.3: Replenishment Strategy**
+    * Designed distinct strategies: **Continuous Review** for volatile items (e.g., Toys) and **Periodic Review** for stable items.
+    * Established data-driven **Reorder Points (ROP)** for all major product lines.
